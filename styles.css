@@ -1,0 +1,10 @@
+.container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: pink;
+    border-radius: 7px;
+    box-shadow: 0 20px 67px rgba(255, 0, 157, 0.9); 
+    justify-content: center;
+    margin-top: 15%;
+}
